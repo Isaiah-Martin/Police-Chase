@@ -1,0 +1,5 @@
+# Mac Hidden Files
+.DS_Store
+
+# all VIM swap files
+.*.sw?
